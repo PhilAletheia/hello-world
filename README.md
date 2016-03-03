@@ -1,2 +1,3 @@
 # hello-world
-a new repository BTC
+Hi World
+I am new in this world.
